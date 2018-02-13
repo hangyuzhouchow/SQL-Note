@@ -1,2 +1,4 @@
 # SQL-Note
-The Note that I took when I learn SQL myself
+The Note and Challenges that I took when I learn SQL myself
+
+
